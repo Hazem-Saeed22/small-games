@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>emoplyes stuff</h1>
+    <ul>
+        <li>
+           <h2>name:hazim salary : 500$ </h4>
+        </li>
+        <li>
+         
+            <h2>name:khaled salary : 600$ </h2>
+            </li>
+        <li><h2>name:yousef salary : 700$ </h2></li>
+        <li><h2>name:yomna salary : 800$ </h2></li>
+        <li><h2>name:eman salary : 900$ </h2></li>
+        <li><h2>name:mohamed salary : 1000$ </h2></li>
+        <li><h2>name:menna salary : 2000$ </h2></li>   
+     </ul>      
+</body>
+</html>
